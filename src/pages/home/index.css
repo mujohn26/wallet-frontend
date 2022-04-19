@@ -1,5 +1,8 @@
 .homeWrapper{
    width: 100%;
    height: 1010px;
+   display: flex;
+   flex-direction: column;
+   color: white;
    background:linear-gradient(180deg, #0D0D0E 15.1%, #34096C 41.15%, rgba(112, 3, 254, 0.238938) 85.94%, rgba(114, 10, 250, 0.168142) 96.35%, rgba(108, 11, 235, 0) 100%)
 }
